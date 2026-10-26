@@ -1,0 +1,3 @@
+﻿cenario;ns_ponderado;pct_intervalos_na_meta;pct_intervalos_em_colapso;asa_medio_seg_estaveis;ocupacao_media;horas_agente_logadas;horas_agente_escaladas;custo_estimado_rs
+Plano Erlang C;0,7815;0,6833;0,0196;74,0508;0,7684;14985,0;21748,0;608944,0
+Escala fixa (mesmas horas);0,4199;0,5238;0,2762;383,4843;0,8246;15015,0;21870,0;612360,0

@@ -1,0 +1,3 @@
+﻿modelo;wape_diario;bias_diario;wape_intervalo
+Holt-Winters + curva intradiária;0,0687;0,0272;0,1128
+Baseline (semana passada);0,1312;0,0028;0,1843
